@@ -786,6 +786,7 @@ PCのRP次第ではうまく隠れてやり過ごすことができるかもし�
 （→【16.グール二体との戦闘】へ）
 ```
 </details>
+</details>
 
 <details>
 <summary>16.グール二体との戦闘</summary>
