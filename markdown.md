@@ -1,6 +1,6 @@
 ## 珠玉の一杯を求めて
 
-- CoCシナリオ「珠玉の一杯を求めて」riryuru様作
+- **CoCシナリオ「珠玉の一杯を求めて」riryuru様作**
   - https://www.pixiv.net/novel/show.php?id=9645547#2
 - KP時に探しやすいようmarkdownの折りたたみ(collapse)を使って整形しています
 - あくまでKPの補助として利用する目的でつくられたものです
