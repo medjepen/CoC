@@ -7,6 +7,33 @@
 - すべての権利は作者様にあります
 
 <details>
+  <summary>NPC</summary>
+<details>
+  <summary>食楽亭店主</summary>
+</details>
+<details>
+  <summary>食楽亭従業員A、B</summary>
+  - STR: 18, CON: 8, POW: 14, DEX: 10, SIZ: 18, INT: 12
+  - HP: 13, MP: 14, db=1d6
+  - かぎ爪(1d6+db) 30%, 噛みつき(1d6+牙1d4) 30% 3回攻撃
+  - 角材 25% 1d6+db
+</details>
+<details>
+  <summary>ラーメン屋の客</summary>
+</details>
+<details>
+  <summary>バイク乗り/山田吾朗（やまだごろう）</summary>
+</details>
+<details>
+  <summary>ミ＝ゴ</summary>
+ - STR: 14, CON: 10, POW: 12, DEX: 13, SIZ: 7, INT: 11
+ - HP: 9, MP: 12
+ - ハサミ(1d6+組みつき) 30%
+</details>
+ 
+</details>
+
+<details>
 <summary>1.導入</summary>
 <p>
 ラーメン。<br>
