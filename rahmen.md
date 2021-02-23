@@ -15,7 +15,7 @@
   <summary>食楽亭従業員A、B</summary>
   
   - STR: 18, CON: 8, POW: 14, DEX: 10, SIZ: 18, INT: 12
-  - HP: 13, MP: 14, db=1d6
+  - HP: 10, MP: 14, db=1d6
   - かぎ爪(1d6+db) 30%, 噛みつき(1d6+牙1d4) 30% 3回攻撃
   - 角材 25% 1d6+db
   - 
